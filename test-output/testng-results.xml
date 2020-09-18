@@ -2,19 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="69302" started-at="2020-09-18T16:00:30Z" finished-at="2020-09-18T16:01:40Z">
+  <suite name="Default suite" duration-ms="72716" started-at="2020-09-18T18:46:57Z" finished-at="2020-09-18T18:48:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="69302" started-at="2020-09-18T16:00:30Z" finished-at="2020-09-18T16:01:40Z">
+    <test name="Default test" duration-ms="72716" started-at="2020-09-18T18:46:57Z" finished-at="2020-09-18T18:48:10Z">
       <class name="test.cleartripTest">
-        <test-method status="PASS" signature="init()[pri:0, instance:test.cleartripTest@e720b71]" name="init" is-config="true" duration-ms="8039" started-at="2020-09-18T16:00:22Z" finished-at="2020-09-18T16:00:30Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.cleartripTest@1b26f7b2]" name="init" is-config="true" duration-ms="7779" started-at="2020-09-18T18:46:50Z" finished-at="2020-09-18T18:46:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="searchFlight()[pri:0, instance:test.cleartripTest@e720b71]" name="searchFlight" duration-ms="69273" started-at="2020-09-18T16:00:30Z" finished-at="2020-09-18T16:01:40Z">
+        <test-method status="PASS" signature="searchFlight()[pri:0, instance:test.cleartripTest@1b26f7b2]" name="searchFlight" duration-ms="72674" started-at="2020-09-18T18:46:57Z" finished-at="2020-09-18T18:48:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchFlight -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:test.cleartripTest@1b26f7b2]" name="quitDriver" is-config="true" duration-ms="1284" started-at="2020-09-18T18:48:10Z" finished-at="2020-09-18T18:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
       </class> <!-- test.cleartripTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

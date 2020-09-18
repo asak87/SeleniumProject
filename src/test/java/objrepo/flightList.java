@@ -20,7 +20,6 @@ public class flightList {
 	@FindBy(css ="div:nth-child(1) > .bg-white .bg-orange")
     public WebElement firstflighbook;
 	
-	//*[@id="root"]/div/main/div/div/div[1]/div/aside/div[4]/div[1]/h2
 	
 	@FindBy(xpath ="//td[contains(text(),'flights')]")
 	public WebElement noofflight;

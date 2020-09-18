@@ -47,7 +47,7 @@ public class setup {
 		
 	}
 	
-/*	@AfterSuite
+	@AfterSuite
 	public void quitDriver() throws Throwable{
 		try {
 			Thread.sleep(30);			
@@ -57,5 +57,5 @@ public class setup {
 			}finally{
 				driver=null;}
 	}
-*/
+
  }
